@@ -827,6 +827,8 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("#   \ \_____\ \_\, \_\ \_\ \_\/\_____\#");
   script.Print("#    \/_____/\/_/ \/_/\/_/\/_/\/_____/#");
   script.Print("#                                     #");
+  script.Print("#           by rastamanjohn           #");
+  script.Print("#                                     #");
   script.Print("#######################################");
 
   if OPTIONS.backuptool:
